@@ -70,5 +70,5 @@ origin - default name Git gives to the server you cloned from.
   
   #### How to generate, take email patches and push?
   
-<img src="/assets/images/github_gitlab_bigbucket_1.jpg" alt="Github vs Gitlab vs Bigbucket">
-<img src="/assets/images/github_gitlab_bigbucket_2.jpg" alt="Github vs Gitlab vs Bigbucket">
+<img src="/assets/images/github_gitlab_bigbucket_1.jpg" alt="Github vs Gitlab vs Bigbucket" width="400">
+<img src="/assets/images/github_gitlab_bigbucket_2.jpg" alt="Github vs Gitlab vs Bigbucket" width="400">
