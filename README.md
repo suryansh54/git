@@ -1,5 +1,8 @@
 # Git
 
+<img src="" alt="/assets/images/github_gitlab_bigbucket_1.jpg">
+<img src="" alt="/assets/images/github_gitlab_bigbucket_2.jpg">
+
 A set of snapshots of a miniature filesystem
 Every time you commit, or save the state of your project in Git, it basically takes a picture of what all your files look like at that moment and stores.
 
