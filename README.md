@@ -1,8 +1,5 @@
 # Git
 
-<img src="/assets/images/github_gitlab_bigbucket_1.jpg" alt="Github vs Gitlab vs Bigbucket">
-<img src="/assets/images/github_gitlab_bigbucket_2.jpg" alt="Github vs Gitlab vs Bigbucket">
-
 A set of snapshots of a miniature filesystem
 Every time you commit, or save the state of your project in Git, it basically takes a picture of what all your files look like at that moment and stores.
 
@@ -72,3 +69,6 @@ origin - default name Git gives to the server you cloned from.
   #### Git Rebase/Squash
   
   #### How to generate, take email patches and push?
+  
+<img src="/assets/images/github_gitlab_bigbucket_1.jpg" alt="Github vs Gitlab vs Bigbucket">
+<img src="/assets/images/github_gitlab_bigbucket_2.jpg" alt="Github vs Gitlab vs Bigbucket">
